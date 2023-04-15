@@ -10,8 +10,8 @@ class WebScraper:
     def __init__(self):
         # EDIT!
         self.game = "Blaze Double"
-        self.token = 'TOKEN BOT'
-        self.chat_id = 'CHAT ID'
+        self.token = '6044672863:AAEQ_2Koc4cbafCESmCLMUf-sS_ZFJkM2EA'
+        self.chat_id = '-1001863245611'
         self.url_API = 'http://api.mxvinvest.com:63000/blaze-double'
         self.gales = 2
         self.protection = True
